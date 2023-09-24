@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="LawNet_11:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/LawNet_11_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="LawNet_11/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LawNet_11" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.mail:mail:1.4.5" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+          <element id="library" level="project" name="Maven: org.commonmark:commonmark:0.20.0" />
+          <element id="library" level="project" name="Maven: com.atlassian.commonmark:commonmark-ext-heading-anchor:0.15.0" />
+          <element id="library" level="project" name="Maven: com.atlassian.commonmark:commonmark:0.15.0" />
+          <element id="library" level="project" name="Maven: org.commonmark:commonmark-ext-gfm-tables:0.20.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.4.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.4" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.23" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.1.5" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.68" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-annotations-api:9.0.68" />
+          <element id="library" level="project" name="servlet-api" />
+          <element id="library" level="project" name="druid-1.1.5" />
+          <element id="library" level="project" name="activation" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
